@@ -6,3 +6,4 @@ This is a simple Java-based payroll system for managing employee records, includ
 2.Remove Employees: Removes employees by their unique ID.
 3.View Employee List: Displays all employees with their calculated salaries.
 4.Search Employees: Finds an employee by ID.
+5.Calculate Total Payroll: Computes the total salary for all employees.
